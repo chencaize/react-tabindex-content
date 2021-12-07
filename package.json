@@ -1,0 +1,44 @@
+{
+  "name": "react-tabindex-content",
+  "version": "1.0.2",
+  "description": "you can use tab to switch the focus of dom elements",
+  "main": "dist/index.js",
+  "files": ["/dist"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --config config/webpack.dev.js",
+    "build": "webpack --config config/webpack.prod.js"
+  },
+  "keywords": [
+    "react-tabindex-content",
+    "react-tabindex",
+    "tabindex-content",
+    "react",
+    "tabindex",
+    "content",
+    "tab",
+    "focus"
+  ],
+  "author": "Caize Chen",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chencaize/react-tabindex-content"
+  },
+  "dependencies": {
+    "nanoid": "^3.1.28",
+    "prop-types": "^15.6.1"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.16.4",
+    "@babel/preset-react": "^7.16.0",
+    "babel-loader": "^8.2.3",
+    "html-webpack-plugin": "^5.5.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.6.0",
+    "webpack-merge": "^5.8.0"
+  }
+}
