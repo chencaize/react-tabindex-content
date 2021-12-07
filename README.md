@@ -4,7 +4,7 @@ you can use tab to switch the focus of dom elements
 
 # Example
 
-![gras](demo.png)
+![gras](./demo.png)
 
 the following order of focus is  3->4->0 , if the allowReadOnly is true , the order will be 3->4->10->0
 
