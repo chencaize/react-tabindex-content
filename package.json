@@ -1,6 +1,6 @@
 {
   "name": "react-tabindex-content",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "you can use tab to switch the focus of dom elements",
   "main": "dist/index.js",
   "files": ["/dist"],
